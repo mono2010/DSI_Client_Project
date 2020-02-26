@@ -1,0 +1,18 @@
+Columns,Data Type
+City,obj
+Total Population,int
+Young (0-14),float
+Working Age (15-64),float
+Elderly (65+),float
+Population density,obj
+No schooling aged 20+,float
+Higher education aged 20+,float
+Matric aged 20+,float
+Number of households,float
+Average household size,float
+Female headed households,float
+Housing owned/paying off,float
+Flush toilet connected to sewerage,float
+Weekly refuse removal,float
+Electricity for lighting,float
+Percent No Income,float
